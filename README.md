@@ -18,7 +18,7 @@ Product Leader with 15+ years shipping products across Meta, Amazon, Zynga, EA, 
 - Mentored 100+ PMs on career transitions and product craft
 
 ## Links
-
+- [My AI builder Product journey] (https://github.com/ViktoriousLLC/newpmjobs-product-journey)
 - [LinkedIn](https://www.linkedin.com/in/vik-agarwal/)
 - [VikAgarwal.com](https://vikagarwal.com/)
 - [Book on Amazon](https://www.amazon.com/Achievement-Unlocked-Winning-Strategies-Managers/dp/9363383385)
